@@ -1,0 +1,5 @@
+{
+  "name": "Cellular Automaton Simulator",
+  "description": "An interactive simulator for elementary cellular automata. Users can specify grid dimensions, set the initial state of the first row, and choose from one of the 256 possible rules to see the pattern evolve.",
+  "requestFramePermissions": []
+}
